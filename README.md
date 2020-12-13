@@ -1,2 +1,3 @@
 # Sakura-Web
-Sakura small websites
+## Sakura small websites
+A small open source project. There are approaches and ideas for a global bot, but the bot is not yet finished...
